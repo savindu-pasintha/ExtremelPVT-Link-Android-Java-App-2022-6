@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426596591130",
+    "project_id": "extremeiptvlink0",
+    "storage_bucket": "extremeiptvlink0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426596591130:android:73f387231dfaa3bb5213a3",
+        "android_client_info": {
+          "package_name": "com.example.extremeiptv_link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426596591130-otibo6rihps4ec871boe1bcpj3ik42te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqISAGcAv9MielVUBYjiaUDwbGDLnMap4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426596591130-otibo6rihps4ec871boe1bcpj3ik42te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
